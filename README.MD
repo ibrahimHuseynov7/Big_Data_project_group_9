@@ -65,6 +65,7 @@ year;major;university;score;competition_score;is_paid
 
 1. Start the application:
 ```bash
+cd Recommender_System 
 streamlit run app.py
 ```
 
