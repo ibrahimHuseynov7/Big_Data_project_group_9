@@ -1,0 +1,94 @@
+4cu_qrup
+year;university;major;branch;language;study_form_symbol;main_min_score;main_competition_score;has_subbakalavr;sub_min_score;sub_competition_score
+;Bakı Dövlət Universiteti;Biologiya müəllimliyi;;Azerbaijani;Ə;372.9;372.9;NO;;
+;Bakı Dövlət Universiteti;Kimya müəllimliyi;;Azerbaijani;Ə;377.8;395.4;NO;;
+;Bakı Dövlət Universiteti;Psixologiya;;Azerbaijani;Ə;474.8;475.0;NO;;
+;Bakı Dövlət Universiteti;Psixologiya;;Azerbaijani;Q;375.0;375.1;NO;;
+;Bakı Dövlət Universiteti;Psixologiya ;;English;Ə;527.6;;NO;;
+;Bakı Dövlət Universiteti;Biologiya;;Azerbaijani;Ə;405.3;405.3;NO;;
+;Bakı Dövlət Universiteti;Biologiya;;Azerbaijani;Q;0.0;331.2;YES;94.2;
+;Bakı Dövlət Universiteti;Biologiya ;;English;Ə;481.0;;NO;;
+;Bakı Dövlət Universiteti;Biotexnologiya;;Azerbaijani;Ə;492.6;492.6;NO;;
+;Bakı Dövlət Universiteti;Ekologiya;;Azerbaijani;Ə;297.0;297.0;NO;;
+;Bakı Dövlət Universiteti;Ekologiya;;Azerbaijani;Q;212.3;224.4;NO;;
+;Bakı Dövlət Universiteti;Ekologiya ;;English;Ə;353.7;;NO;;
+;Bakı Dövlət Universiteti;Kimya;;Azerbaijani;Ə;416.2;416.2;NO;;
+;Bakı Dövlət Universiteti;Kimya ;;English;Ə;490.5;;NO;;
+;Bakı Dövlət Universiteti;Bitki mühafizəsi;;Azerbaijani;Ə;218.9;223.1;NO;;
+;Bakı Dövlət Universiteti;Su bioehtiyatları və akvakultura;;Azerbaijani;Ə;259.7;261.3;NO;;
+;Bakı Dövlət Universiteti;Kimya və biologiya müəllimliyi;Qazax filialı;Azerbaijani;Ə;200.0;;NO;;
+;Azərbaycan Tibb Universiteti;Əczaçılıq;;Azerbaijani;Ə;524.0;524.0;NO;;
+;Azərbaycan Tibb Universiteti;Fizioterapiya və tibbi reabilitasiya;;Azerbaijani;Ə;549.5;567.7;NO;;
+;Azərbaycan Tibb Universiteti;Tibb bacısı işi;;Azerbaijani;Ə;466.6;488.9;NO;;
+;Azərbaycan Tibb Universiteti;İctimai səhiyyə;;Azerbaijani;Ə;543.7;545.5;NO;;
+;Azərbaycan Tibb Universiteti;Stomatologiya;;Azerbaijani;Ə;577.9;577.9;NO;;
+;Azərbaycan Tibb Universiteti;Tibb;;Azerbaijani;Ə;556.6;595.0;NO;;
+;Azərbaycan Tibb Universiteti;Tibb ;;English;Ə;666.3;;NO;;
+;Azərbaycan Dövlət Pedaqoji Universiteti;Biologiya müəllimliyi;;Azerbaijani;Ə;260.8;360.2;NO;;
+;Azərbaycan Dövlət Pedaqoji Universiteti;Kimya müəllimliyi;;Azerbaijani;Ə;278.2;447.6;NO;;
+;Azərbaycan Dövlət Pedaqoji Universiteti;Kimya və biologiya müəllimliyi;;Azerbaijani;Ə;393.9;393.9;NO;;
+;Azərbaycan Dövlət iqtisad Universiteti;Ekologiya;;Azerbaijani;Ə;253.4;254.1;NO;;
+;Azərbaycan Dövlət iqtisad Universiteti;Ekologiya;;Azerbaijani;Q;195.3;331.0;NO;;
+;Bakı Mühəndislik Universiteti;Biologiya müəllimliyi ;;English;Ə;256.8;;NO;;
+;Bakı Mühəndislik Universiteti;Kimya müəllimliyi ;;English;Ə;276.2;;NO;;
+;Azərbaycan Dövlət Bədən Tərbiyəsi və İdman Akademiyası;Bədən tərbiyəsi və idmanda reabilitasiya;;Azerbaijani;Ə;312.3;349.0;NO;;
+;Naxçıvan Dövlət Universiteti;Biologiya müəllimliyi;;Azerbaijani;Ə;200.0;367.3;NO;;
+;Naxçıvan Dövlət Universiteti;Kimya müəllimliyi;;Azerbaijani;Ə;200.0;419.3;NO;;
+;Naxçıvan Dövlət Universiteti;Psixologiya;;Azerbaijani;Ə;400.0;400.0;NO;;
+;Naxçıvan Dövlət Universiteti;Biologiya;;Azerbaijani;Ə;200.0;337.9;YES;95.3;
+;Naxçıvan Dövlət Universiteti;Biologiya;;Azerbaijani;Q;200.0;;YES;94.6;
+;Naxçıvan Dövlət Universiteti;Kimya;;Azerbaijani;Ə;200.0;279.5;NO;;
+;Naxçıvan Dövlət Universiteti;Baytarlıq təbabəti;;Azerbaijani;Ə;150.0;155.3;YES;87.1;87.1
+;Naxçıvan Dövlət Universiteti;Əczaçılıq;;Azerbaijani;Ə;500.5;500.5;NO;;
+;Naxçıvan Dövlət Universiteti;İctimai səhiyyə;;Azerbaijani;Ə;509.8;;NO;;
+;Naxçıvan Dövlət Universiteti;Stomatologiya;;Azerbaijani;Ə;535.9;594.3;NO;;
+;Naxçıvan Dövlət Universiteti;Tibb;;Azerbaijani;Ə;541.4;597.6;NO;;
+;Naxçıvan Müəllimlər İnstitutu;Biologiya müəllimliyi;;Azerbaijani;Ə;200.0;;NO;;
+;Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri);Ekologiya;;Azerbaijani;Ə;150.0;152.2;YES;89.6;89.6
+;Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri);Ekologiya;;Azerbaijani;Q;150.0;164.4;YES;92.8;92.8
+;Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri);Bağçılıq və tərəvəzçilik;;Azerbaijani;Ə;150.0;;NO;;
+;Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri);Bağçılıq və tərəvəzçilik;;Azerbaijani;Q;150.0;170.0;NO;;
+;Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri);Baytarlıq təbabəti;;Azerbaijani;Ə;150.0;151.0;YES;72.1;72.1
+;Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri);Baytarlıq təbabəti ;;English;Ə;163.7;;NO;;
+;Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri);Bitki mühafizəsi;;Azerbaijani;Ə;150.0;164.4;NO;;
+;Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri);Bitki mühafizəsi;;Azerbaijani;Ə;150.0;150.2;NO;;
+;Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri);Su bioehtiyatları və akvakultura;;Azerbaijani;Ə;150.0;154.0;NO;;
+;Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri);Əczaçılıq;;Azerbaijani;Ə;204.6;204.6;NO;;
+;Gəncə Dövlət Universiteti;Biologiya müəllimliyi;;Azerbaijani;Ə;200.0;362.5;NO;;
+;Gəncə Dövlət Universiteti;Kimya müəllimliyi;;Azerbaijani;Ə;200.0;432.4;NO;;
+;Gəncə Dövlət Universiteti;Kimya və biologiya müəllimliyi;;Azerbaijani;Ə;200.0;393.7;NO;;
+;Gəncə Dövlət Universiteti;Psixologiya;;Azerbaijani;Ə;200.0;367.7;NO;;
+;Gəncə Dövlət Universiteti;Biologiya;;Azerbaijani;Ə;200.0;339.4;YES;91.0;
+;Gəncə Dövlət Universiteti;Kimya;;Azerbaijani;Ə;278.1;278.1;NO;;
+;Azərbaycan Texnologiya Universiteti;Ekologiya;Gəncə filialı;Azerbaijani;Ə;150.0;;YES;80.7;
+;Azərbaycan Texnologiya Universiteti;Ekologiya;Gəncə filialı;Azerbaijani;Q;150.0;;YES;90.9;92.6
+;Sumqayıt Dövlət Universiteti;Biologiya müəllimliyi;;Azerbaijani;Ə;200.0;;NO;;
+;Sumqayıt Dövlət Universiteti;Kimya müəllimliyi;;Azerbaijani;Ə;200.0;475.0;NO;;
+;Sumqayıt Dövlət Universiteti;Kimya və biologiya müəllimliyi;;Azerbaijani;Ə;200.0;408.5;NO;;
+;Sumqayıt Dövlət Universiteti;Psixologiya;;Azerbaijani;Ə;200.0;343.8;NO;;
+;Sumqayıt Dövlət Universiteti;Psixologiya;;Azerbaijani;Q;200.0;;NO;;
+;Sumqayıt Dövlət Universiteti;Biologiya;;Azerbaijani;Ə;200.0;331.4;YES;94.0;
+;Sumqayıt Dövlət Universiteti;Ekologiya;;Azerbaijani;Ə;218.6;236.3;NO;;
+;Sumqayıt Dövlət Universiteti;Kimya;;Azerbaijani;Ə;318.1;318.1;NO;;
+;Mingəçevir Dövlət Universiteti;Ekologiya;;Azerbaijani;Ə;150.0;;YES;79.2;95.9
+;Lənkəran Dövlət Universiteti;Kimya və biologiya müəllimliyi;;Azerbaijani;Ə;200.0;388.1;NO;;
+;Lənkəran Dövlət Universiteti;Ekologiya;;Azerbaijani;Ə;150.0;265.1;YES;76.6;
+;Lənkəran Dövlət Universiteti;Ekologiya;;Azerbaijani;Q;150.0;;YES;89.0;93.4
+;Lənkəran Dövlət Universiteti;Baytarlıq təbabəti;;Azerbaijani;Ə;150.0;153.2;YES;70.0;70.0
+;Azərbaycan Kooperasiya Universiteti;Ekologiya;;Azerbaijani;Ə;150.0;;YES;81.0;
+;Azərbaycan Kooperasiya Universiteti;Ekologiya;;Azerbaijani;Q;150.0;;YES;93.3;93.3
+;Qərbi Kaspi Universiteti;Psixologiya;;Azerbaijani;Ə;305.0;344.9;NO;;
+;Qərbi Kaspi Universiteti;Psixologiya;;Azerbaijani;Q;200.0;;NO;;
+;Qərbi Kaspi Universiteti;Biologiya;;Azerbaijani;Ə;200.0;332.3;YES;82.9;
+;Qərbi Kaspi Universiteti;Ekologiya;;Azerbaijani;Ə;150.0;226.8;YES;86.1;
+;Qərbi Kaspi Universiteti;Su bioehtiyatları və akvakultura;;Azerbaijani;Ə;150.0;157.3;NO;;
+;Xəzər Universiteti;Biologiya müəllimliyi;;Azerbaijani;Ə;200.0;368.2;NO;;
+;Xəzər Universiteti;Kimya müəllimliyi;;Azerbaijani;Ə;200.0;426.0;NO;;
+;Xəzər Universiteti;Kimya və biologiya müəllimliyi;;Azerbaijani;Ə;247.1;387.0;NO;;
+;Xəzər Universiteti;Psixologiya ;;English;Ə;449.0;;NO;;
+;Xəzər Universiteti;Baytarlıq təbabəti;;Azerbaijani;Ə;168.3;168.3;NO;;
+;Bakı Qızlar Universiteti;Psixologiya;;Azerbaijani;Ə;200.0;382.2;NO;;
+;“Odlar Yurdu” Universiteti;Psixologiya;;Azerbaijani;Ə;200.0;352.4;NO;;
+;“Odlar Yurdu” Universiteti;Biologiya;;Azerbaijani;Ə;200.0;348.3;YES;82.9;
+;“Odlar Yurdu” Universiteti;Ekologiya;;Azerbaijani;Q;150.0;412.2;YES;93.7;93.7
+;“Odlar Yurdu” Universiteti;Ekologiya;;Azerbaijani;Ə;150.0;235.9;YES;80.9;92.9
