@@ -1,0 +1,463 @@
+1ci_qrup
+year;university;major;branch;language;study_form_symbol;main_min_score;main_competition_score;has_subbakalavr;sub_min_score;sub_competition_score
+2025-2026;Bakı Dövlət Universiteti;Fizika müəllimliyi;;Azerbaijani;Ə;348.1;365.4;NO;;
+2025-2026;Bakı Dövlət Universiteti;Fizika müəllimliyi;;English;Ə;407.6;407.6;NO;;
+2025-2026;Bakı Dövlət Universiteti;İnformatika;;Azerbaijani;Ə;325.6;325.6;NO;;
+2025-2026;Bakı Dövlət Universiteti;Riyaziyyat müəllimliyi;;Azerbaijani;Ə;522.2;522.2;NO;;
+2025-2026;Bakı Dövlət Universiteti;Riyaziyyat müəllimliyi;;English;Ə;597.5;597.5;NO;;
+2025-2026;Bakı Dövlət Universiteti;Fizika;;Azerbaijani;Ə;310.7;310.7;NO;;
+2025-2026;Bakı Dövlət Universiteti;Fizika;;English;Ə;337.5;337.5;NO;;
+2025-2026;Bakı Dövlət Universiteti;Geologiya;;Azerbaijani;Ə;200.0;213.4;NO;;
+2025-2026;Bakı Dövlət Universiteti;Kompüter elmləri;;Azerbaijani;Ə;427.9;427.9;NO;;
+2025-2026;Bakı Dövlət Universiteti;Kompüter elmləri;;English;Ə;537.3;537.3;NO;;
+2025-2026;Bakı Dövlət Universiteti;Mexanika;;Azerbaijani;Ə;200.0;233.9;YES;51.0;63.1
+2025-2026;Bakı Dövlət Universiteti;Riyaziyyat;;Azerbaijani;Ə;402.8;402.8;NO;;
+2025-2026;Bakı Dövlət Universiteti;Riyaziyyat;;English;Ə;515.0;515.0;NO;;
+2025-2026;Bakı Dövlət Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;263.4;266.5;NO;;
+2025-2026;Bakı Dövlət Universiteti;Geologiya və geofizika mühəndisliyi;;Azerbaijani;Ə;200.0;206.0;YES;51.0;63.0
+2025-2026;Bakı Dövlət Universiteti;Geologiya və geofizika mühəndisliyi;;English;Ə;200.0;266.1;NO;;
+2025-2026;Bakı Dövlət Universiteti;Geomatika və geodeziya mühəndisliyi;;Azerbaijani;Ə;200.0;220.0;YES;51.0;60.8
+2025-2026;Bakı Dövlət Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;542.3;542.3;NO;;
+2025-2026;Bakı Dövlət Universiteti;Kimya mühəndisliyi;;Azerbaijani;Ə;406.3;406.3;NO;;
+2025-2026;Bakı Dövlət Universiteti;Kimya mühəndisliyi;;English;Ə;517.8;517.8;NO;;
+2025-2026;Bakı Dövlət Universiteti;Qida mühəndisliyi;;Azerbaijani;Ə;355.1;355.1;NO;;
+2025-2026;Bakı Dövlət Universiteti;Meliorasiya mühəndisliyi;;Azerbaijani;Ə;245.3;;NO;;
+2025-2026;Bakı Dövlət Universiteti;Mədən mühəndisliyi;;Azerbaijani;Ə;200.0;230.0;YES;70.7;71.2
+2025-2026;Bakı Dövlət Universiteti;Mühəndislik fizikası;;Azerbaijani;Ə;263.9;263.9;NO;;
+2025-2026;Bakı Dövlət Universiteti;Torpaqşünaslıq və aqrokimya;;Azerbaijani;Ə;270.5;270.5;NO;;
+2025-2026;Bakı Dövlət Universiteti;Yerquruluşu və daşınmaz əmlakın;;Azerbaijani;Ə;295.2;295.2;NO;;
+2025-2026;Bakı Dövlət Universiteti;Riyaziyyat müəllimliyi;Qazax filialı;Azerbaijani;Ə;200.0;;NO;;
+2025-2026;Bakı Dövlət Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;200.0;275.8;YES;51.0;86.3
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Geologiya;;Azerbaijani;Ə;200.0;216.9;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Kompüter elmləri;;Azerbaijani;Ə;476.8;476.8;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Kompüter elmləri;;English;Ə;567.1;567.1;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Cihaz mühəndisliyi;;Azerbaijani;Ə;200.0;209.9;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Cihaz mühəndisliyi;;English;Ə;302.8;302.8;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Data analitikası;;English;Ə;562.8;562.8;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;250.1;250.1;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Ekologiya mühəndisliyi;;English;Ə;289.1;291.6;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;303.1;303.1;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Elektrik və elektronika mühəndisliyi;;English;Ə;453.0;453.0;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Energetika mühəndisliyi;;Azerbaijani;Ə;237.1;237.1;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Energetika mühəndisliyi;;English;Ə;388.1;388.1;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Geologiya və geofizika mühəndisliyi;;Azerbaijani;Ə;200.0;231.5;YES;51.0;62.3
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Geologiya və geofizika mühəndisliyi;;English;Ə;200.0;254.3;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Həyat fəaliyyətinin təhlükəsizliyi;;Azerbaijani;Ə;200.0;237.0;YES;51.0;66.2
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;501.9;501.9;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;562.1;562.1;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;523.1;523.1;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;587.5;587.5;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;İnşaat mühəndisliyi;;Azerbaijani;Ə;309.5;309.5;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;İnşaat mühəndisliyi;;English;Ə;358.0;358.0;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Kimya mühəndisliyi;;Azerbaijani;Ə;424.7;424.7;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Kimya mühəndisliyi;;English;Ə;624.9;624.9;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;453.6;453.6;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Kompüter mühəndisliyi;;English;Ə;544.4;544.4;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Qida mühəndisliyi;;Azerbaijani;Ə;303.1;325.6;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Qida mühəndisliyi;;English;Ə;371.6;371.6;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Logistika və nəqliyyat texnologiyaları;;Azerbaijani;Ə;315.1;315.1;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Logistika və nəqliyyat texnologiyaları;;English;Ə;400.4;400.4;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Maşın mühəndisliyi;;Azerbaijani;Ə;200.0;200.3;YES;51.0;64.0
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Materiallar mühəndisliyi;;Azerbaijani;Ə;200.0;;YES;51.0;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Mexanika mühəndisliyi;;Azerbaijani;Ə;200.0;218.5;YES;51.0;58.4
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Mexanika mühəndisliyi;;English;Ə;315.9;315.9;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Mexatronika və robototexnika;;Azerbaijani;Ə;342.6;342.6;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Mexatronika və robototexnika;;English;Ə;415.6;415.6;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Mədən mühəndisliyi;;Azerbaijani;Ə;200.0;204.8;YES;74.9;74.9
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Mühəndislik fizikası;;Azerbaijani;Ə;200.0;220.1;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Neft-qaz mühəndisliyi;;Azerbaijani;Ə;435.8;435.8;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Neft-qaz mühəndisliyi;;English;Ə;587.8;587.8;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Proseslərin avtomatlaşdırılması;;Azerbaijani;Ə;358.2;358.2;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Proseslərin avtomatlaşdırılması;;English;Ə;450.2;450.2;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Radiotexnika və telekommunikasiya;;Azerbaijani;Ə;200.0;224.2;YES;51.0;83.5
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Radiotexnika və telekommunikasiya;;English;Ə;263.1;263.1;NO;;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Sənaye mühəndisliyi;;Azerbaijani;Ə;200.0;291.6;YES;51.0;
+2025-2026;Azərbaycan Dövlət Neft və Sənaye Universiteti;Sənaye mühəndisliyi;;English;Ə;474.4;474.4;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Kompüter elmləri;;English;Ə;526.7;526.7;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Kompüter elmləri;;Azerbaijani;Ə;408.0;408.0;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Aerokosmik mühəndislik;;Azerbaijani;Ə;200.0;241.9;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Cihaz mühəndisliyi;;Azerbaijani;Ə;200.0;223.6;YES;77.7;77.7
+2025-2026;Azərbaycan Texniki Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;246.0;250.0;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Elektrik və elektronika mühəndisliyi ;;Turkish;Ə;294.9;294.9;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;254.4;254.4;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Energetika mühəndisliyi;;Azerbaijani;Ə;200.0;201.5;YES;51.0;62.0
+2025-2026;Azərbaycan Texniki Universiteti;Həyat fəaliyyətinin təhlükəsizliyi;;Azerbaijani;Ə;200.0;219.9;YES;51.0;69.1
+2025-2026;Azərbaycan Texniki Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;548.7;548.7;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;433.2;433.2;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;İnformasiya təhlükəsizliyi ;;Azerbaijani;Ə;515.4;515.4;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;475.2;475.2;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;560.4;560.4;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Kimya mühəndisliyi ;;Azerbaijani;Ə;402.4;402.4;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Kimya mühəndisliyi;;Azerbaijani;Ə;307.1;401.4;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Kompüter mühəndisliyi;;English;Ə;538.0;538.0;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Kompüter mühəndisliyi;;English;Ə;503.5;503.5;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;389.2;389.2;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Qida mühəndisliyi;;Azerbaijani;Ə;200.0;328.3;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Logistika və nəqliyyat texnologiyaları;;Azerbaijani;Ə;261.8;261.8;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Maşm mühəndisliyi ;;Azerbaijani;Ə;202.1;202.1;YES;59.4;59.4
+2025-2026;Azərbaycan Texniki Universiteti;Maşm mühəndisliyi;;Azerbaijani;Ə;200.0;224.0;YES;51.0;73.0
+2025-2026;Azərbaycan Texniki Universiteti;Materiallar mühəndisliyi ;;Azerbaijani;Ə;211.6;211.6;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Materiallar mühəndisliyi;;Azerbaijani;Ə;200.0;280.8;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Mexanika mühəndisliyi;;Azerbaijani;Ə;200.0;231.5;YES;66.6;66.7
+2025-2026;Azərbaycan Texniki Universiteti;Mexatronika və robototexnika ;;Azerbaijani;Ə;361.9;361.9;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Mexatronika və robototexnika;;Azerbaijani;Ə;324.8;341.1;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Metallurgiya mühəndisliyi;;Azerbaijani;Ə;200.0;264.3;YES;51.0;64.9
+2025-2026;Azərbaycan Texniki Universiteti;Mədən mühəndisliyi;;Azerbaijani;Ə;200.0;;YES;51.0;59.4
+2025-2026;Azərbaycan Texniki Universiteti;Nəqliyyat mühəndisliyi;;Azerbaijani;Ə;200.0;231.3;YES;86.0;86.0
+2025-2026;Azərbaycan Texniki Universiteti;Proseslərin avtomatlaşdırılması;;Azerbaijani;Ə;347.0;347.0;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Radiotexnika və telekommunikasiya;;English;Ə;200.0;262.0;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Radiotexnika və telekommunikasiya;;Azerbaijani;Ə;200.0;229.4;YES;86.2;86.2
+2025-2026;Azərbaycan Texniki Universiteti;Sənaye mühəndisliyi;;Azerbaijani;Ə;200.0;293.6;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Xüsusi rabitə vasitələri mühəndisliyi;;Azerbaijani;Ə;214.1;214.1;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Silah sistemləri mühəndisliyi;;Azerbaijani;Ə;211.4;211.4;NO;;
+2025-2026;Azərbaycan Texniki Universiteti;Sistemlər mühəndisliyi ;;Azerbaijani;Ə;365.1;365.1;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;241.5;244.7;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Ekologiya mühəndisliyi;;English;Ə;267.8;267.8;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;214.0;214.0;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Elektrik və elektronika mühəndisliyi;;English;Ə;306.4;306.4;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Geomatika və geodeziya mühəndisliyi;;Azerbaijani;Ə;200.0;260.2;YES;73.8;73.8
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Həyat fəaliyyətinin təhlükəsizliyi;;Azerbaijani;Ə;200.0;213.7;YES;80.4;80.4
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;377.4;377.4;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;458.3;458.3;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;415.5;415.5;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;454.4;454.4;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;İnşaat mühəndisliyi;;Azerbaijani;Ə;200.0;299.8;YES;70.3;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;İnşaat mühəndisliyi;;English;Ə;367.7;367.7;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;İnşaat mühəndisliyi;;English;Ə;411.8;411.8;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;İnşaat mühəndisliyi;;Azerbaijani;Ə;348.4;348.4;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Kommunikasiya sistemləri;;Azerbaijani;Ə;200.0;223.5;YES;77.4;78.2
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Kommunikasiya sistemləri;;English;Ə;200.0;257.5;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Kommunikasiya sistemləri;;Azerbaijani;Ə;200.0;247.2;YES;87.3;87.3
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Logistika və nəqliyyat texnologiyaları;;Azerbaijani;Ə;259.1;259.1;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Maşm mühəndisliyi;;Azerbaijani;Ə;200.0;247.4;YES;70.0;70.0
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Materiallar mühəndisliyi;;Azerbaijani;Ə;200.0;;YES;51.0;56.7
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Mexanika mühəndisliyi;;Azerbaijani;Ə;200.0;241.6;YES;74.1;75.2
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Meliorasiya mühəndisliyi;;Azerbaijani;Ə;230.2;238.6;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Neft-qaz mühəndisliyi;;Azerbaijani;Ə;200.0;402.5;YES;91.1;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Nəqliyyat mühəndisliyi;;Azerbaijani;Ə;200.0;213.7;YES;85.6;85.6
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Nəqliyyat tikintisi mühəndisliyi;;Azerbaijani;Ə;200.0;230.5;YES;51.0;64.3
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Proseslərin avtomatlaşdırılması;;Azerbaijani;Ə;335.9;335.9;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Sənaye mühəndisliyi;;Azerbaijani;Ə;200.0;294.1;YES;66.8;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Şəhərsalma;;Azerbaijani;Ə;252.3;252.3;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Şəhərsalma;;Azerbaijani;Ə;243.7;243.7;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Yerquruluşu və daşınmaz əmlakın;;Azerbaijani;Ə;275.8;275.8;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Yerquruluşu və daşınmaz əmlakın;;Azerbaijani;Q;258.8;258.8;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Memarlıq;;Azerbaijani;Ə;328.9;328.9;NO;;
+2025-2026;Azərbaycan Memarlıq və İnşaat Universiteti;Memarlıq;;English;Ə;484.7;484.7;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Fizika müəllimliyi;;Azerbaijani;Ə;279.8;366.1;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Fizika müəllimliyi;;English;Ə;261.8;365.6;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;informatika;;Azerbaijani;Ə;307.3;307.6;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;İnformatika;;English;Ə;313.5;313.5;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Riyaziyyat müəllimliyi;;Azerbaijani;Ə;417.0;484.1;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Riyaziyyat müəllimliyi;;English;Ə;497.4;497.4;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;401.8;401.8;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Texnologiya müəllimliyi;;Azerbaijani;Ə;230.5;231.6;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Fizika müəllimliyi;Şamaxı filialı;Azerbaijani;Ə;200.0;;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;200.0;256.2;YES;51.0;85.7
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;İnformatika;;Azerbaijani;Ə;200.0;411.1;YES;51.0;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;200.0;224.8;YES;51.0;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Riyaziyyat müəllimliyi;Ağcabədi filialı;Azerbaijani;Ə;200.0;;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;200.0;255.1;YES;51.0;82.5
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Riyaziyyat müəllimliyi;Quba filialı;Azerbaijani;Ə;200.0;;NO;;
+2025-2026;Azərbaycan Dövlət Pedaqoji Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;268.8;268.8;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Kompüter elmləri;;Azerbaijani;Ə;583.1;583.1;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;295.9;298.4;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;417.8;417.8;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;591.4;591.4;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;634.6;634.6;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;609.2;609.2;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;640.2;640.2;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Kommunikasiya sistemləri;;Azerbaijani;Ə;379.7;379.7;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;569.4;569.4;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Kompüter mühəndisliyi;;English;Ə;622.5;622.5;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Qida mühəndisliyi;;Azerbaijani;Ə;359.6;359.6;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Qida mühəndisliyi;;Azerbaijani;Ə;388.6;388.6;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Maşm mühəndisliyi;;Azerbaijani;Ə;200.0;238.5;YES;77.9;77.9
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Materiallar mühəndisliyi;;Azerbaijani;Ə;200.0;232.4;YES;51.0;63.2
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;Sənaye mühəndisliyi;;Azerbaijani;Ə;337.6;337.6;NO;;
+2025-2026;Azərbaycan Dövlət İqtisad Universiteti;İnformasiya texnologiyaları;Zaqatala filialı;Azerbaijani;Ə;200.0;249.6;YES;83.7;86.9
+2025-2026;Bakı Mühəndislik Universiteti;Fizika;;English;Ə;260.4;260.4;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Kompüter elmləri;;Azerbaijani;Ə;394.6;394.6;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Kompüter elmləri;;English;Ə;515.8;516.1;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Riyaziyyat;;English;Ə;347.3;347.3;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Data analitikası;;English;Ə;372.9;556.4;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;235.0;240.9;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Ekologiya mühəndisliyi;;English;Ə;242.9;;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;200.0;224.3;YES;87.1;87.1
+2025-2026;Bakı Mühəndislik Universiteti;Elektrik və elektronika mühəndisliyi;;English;Ə;281.0;281.0;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Energetika mühəndisliyi;;Azerbaijani;Ə;200.0;244.9;YES;82.2;82.2
+2025-2026;Bakı Mühəndislik Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;415.2;415.2;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;521.7;521.7;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;488.1;488.1;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;564.7;564.7;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;İnşaat mühəndisliyi;;Azerbaijani;Ə;200.0;299.6;YES;70.9;
+2025-2026;Bakı Mühəndislik Universiteti;Kimya mühəndisliyi;;Azerbaijani;Ə;337.1;401.8;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Kimya mühəndisliyi;;English;Ə;500.9;500.9;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Kommunikasiya sistemləri;;Azerbaijani;Ə;200.0;244.4;YES;74.8;79.5
+2025-2026;Bakı Mühəndislik Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;406.6;406.6;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Kompüter mühəndisliyi;;English;Ə;515.0;515.0;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Qida mühəndisliyi;;Azerbaijani;Ə;200.0;327.1;YES;87.8;
+2025-2026;Bakı Mühəndislik Universiteti;Logistika və nəqliyyat texnologiyaları;;Azerbaijani;Ə;200.0;221.8;YES;80.8;
+2025-2026;Bakı Mühəndislik Universiteti;Logistika və nəqliyyat texnologiyaları;;English;Ə;200.0;267.3;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Maşm mühəndisliyi;;Azerbaijani;Ə;200.0;200.6;YES;51.0;63.1
+2025-2026;Bakı Mühəndislik Universiteti;Mexanika mühəndisliyi;;Azerbaijani;Ə;200.0;249.5;YES;70.7;70.7
+2025-2026;Bakı Mühəndislik Universiteti;Mexanika mühəndisliyi;;English;Ə;200.0;252.3;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Mexatronika və robototexnika;;Azerbaijani;Ə;312.1;343.0;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Memarlıq;;Azerbaijani;Ə;200.0;297.1;YES;51.0;
+2025-2026;Bakı Mühəndislik Universiteti;Memarlıq;;English;Ə;200.0;295.9;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Nəqliyyat mühəndisliyi;;Azerbaijani;Ə;200.0;233.9;YES;84.8;84.8
+2025-2026;Bakı Mühəndislik Universiteti;Nəqliyyat tikintisi mühəndisliyi;;Azerbaijani;Ə;200.0;254.7;YES;51.0;67.2
+2025-2026;Bakı Mühəndislik Universiteti;Proseslərin avtomatlaşdırılması;;Azerbaijani;Ə;351.9;351.9;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Proseslərin avtomatlaşdırılması;;English;Ə;370.0;370.0;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Radiotexnika və telekommunikasiya;;Azerbaijani;Ə;200.0;208.8;YES;83.0;83.0
+2025-2026;Bakı Mühəndislik Universiteti;Sənaye mühəndisliyi;;Azerbaijani;Ə;200.0;293.6;YES;51.0;
+2025-2026;Bakı Mühəndislik Universiteti;Sənaye mühəndisliyi;;English;Ə;200.0;308.3;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Şəhərsalma;;Azerbaijani;Ə;200.0;250.2;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Şərabçılıq;;Azerbaijani;Ə;224.2;224.3;NO;;
+2025-2026;Bakı Mühəndislik Universiteti;Şərabçılıq;;Azerbaijani;Q;209.5;209.5;NO;;
+2025-2026;Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası;Kompüter elmləri;;Azerbaijani;Ə;558.9;558.9;NO;;
+2025-2026;ADA Universiteti;Kompüter elmləri;;English;Ə;692.6;692.6;NO;;
+2025-2026;ADA Universiteti;Kompüter elmləri;;English;Ə;641.6;;NO;;
+2025-2026;ADA Universiteti;Riyaziyyat;;English;Ə;640.8;640.8;NO;;
+2025-2026;ADA Universiteti;Riyaziyyat;;English;Ə;601.4;;NO;;
+2025-2026;ADA Universiteti;Elektrik və elektronika mühəndisliyi;;English;Ə;400.0;;NO;;
+2025-2026;ADA Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;662.7;662.7;NO;;
+2025-2026;ADA Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;642.8;;NO;;
+2025-2026;ADA Universiteti;Kənd təsərrüfatı texnologiyaları;;Azerbaijani;Ə;300.0;;NO;;
+2025-2026;ADA Universiteti;Kompüter mühəndisliyi;;English;Ə;655.8;655.8;NO;;
+2025-2026;ADA Universiteti;Kompüter mühəndisliyi;;English;Ə;636.7;;NO;;
+2025-2026;ADA Universiteti;Qida texnologiyaları;;English;Ə;400.0;;NO;;
+2025-2026;ADA Universiteti;Memarlıq;;English;Ə;401.4;;NO;;
+2025-2026;ADA Universiteti;Şəhərsalma;;English;Ə;400.0;;NO;;
+2025-2026;ADA Universiteti;Heyvandarlıq;;English;Ə;300.0;;NO;;
+2025-2026;Azərbaycan Turizm və Menecment Universiteti;Qida mühəndisliyi;;Azerbaijani;Ə;200.0;;YES;86.0;
+2025-2026;Milli Aviasiya Akademiyası;Aerokosmik mühəndislik;;Azerbaijani;Ə;355.5;355.5;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Aerokosmik mühəndislik;;English;Ə;412.2;412.2;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Aviasiya təhlükəsizliyi mühəndisliyi;;Azerbaijani;Ə;351.0;352.9;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Aviasiya təhlükəsizliyi mühəndisliyi;;English;Ə;389.1;389.1;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Cihaz mühəndisliyi;;Azerbaijani;Ə;316.2;316.2;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Cihaz mühəndisliyi;;English;Ə;321.3;321.3;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Ekologiya mühəndisliyi;;Azerbaijani;Ə;277.8;282.7;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;326.5;326.5;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Energetika mühəndisliyi;;Azerbaijani;Ə;310.0;310.0;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Hava nəqliyyatının hərəkətinin təşkili;;English;Ə;358.4;358.4;NO;;
+2025-2026;Milli Aviasiya Akademiyası;İnformasiya texnologiyaları;;Azerbaijani;Ə;421.9;421.9;NO;;
+2025-2026;Milli Aviasiya Akademiyası;İnformasiya texnologiyaları;;Azerbaijani;Ə;489.9;489.9;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Kompüter mühəndisliyi;;English;Ə;414.0;414.0;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Logistika və nəqliyyat texnologiyaları;;Azerbaijani;Ə;351.3;351.3;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Logistika və nəqliyyat texnologiyaları;;English;Ə;412.2;412.2;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Materiallar mühəndisliyi;;Azerbaijani;Ə;200.0;201.0;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Mexanika mühəndisliyi;;Azerbaijani;Ə;291.6;291.6;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Mexatronika və robototexnika;;Azerbaijani;Ə;351.3;351.3;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Mexatronika və robototexnika;;English;Ə;369.3;369.3;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Mühəndislik fizikası;;Azerbaijani;Ə;258.9;258.9;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Proseslərin avtomatlaşdırılması;;Azerbaijani;Ə;367.3;367.3;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Radiotexnika və telekommunikasiya;;Azerbaijani;Ə;292.2;292.2;NO;;
+2025-2026;Milli Aviasiya Akademiyası;Uçuş mühəndisliyi;;English;Ə;415.5;415.5;NO;;
+2025-2026;Azərbaycan Dövlət Dəniz Akademiyası;Dəniz naviqasiyası mühəndisliyi;;Azerbaijani;Ə;385.0;385.7;NO;;
+2025-2026;Azərbaycan Dövlət Dəniz Akademiyası;Dəniz naviqasiyası mühəndisliyi;;Azerbaijani;Q;200.0;;YES;67.8;
+2025-2026;Azərbaycan Dövlət Dəniz Akademiyası;Dəniz naviqasiyası mühəndisliyi;;Azerbaijani;Ə;468.8;468.8;NO;;
+2025-2026;Azərbaycan Dövlət Dəniz Akademiyası;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;300.0;300.0;NO;;
+2025-2026;Azərbaycan Dövlət Dəniz Akademiyası;Gəmi energetik qurğularının istismarı;;Azerbaijani;Ə;200.0;318.4;YES;77.6;
+2025-2026;Azərbaycan Dövlət Dəniz Akademiyası;Gəmi energetik qurğularının istismarı;;Azerbaijani;Q;200.0;;YES;71.2;
+2025-2026;Azərbaycan Dövlət Dəniz Akademiyası;Gəmi energetik qurğularının istismarı;;English;Ə;354.6;354.6;NO;;
+2025-2026;Azərbaycan Dövlət Dəniz Akademiyası;Gəmiqayırma və gəmi təmiri;;Azerbaijani;Ə;200.0;257.9;YES;64.9;64.9
+2025-2026;Bakı Ali Neft Məktəbi;Kompüter elmləri;;English;Ə;672.8;672.8;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Kompüter elmləri;;English;Ə;623.2;;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Data analitikası;;English;Ə;658.1;658.1;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Data analitikası;;English;Ə;623.0;;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;681.0;681.0;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;643.7;;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Kimya mühəndisliyi;;English;Ə;668.0;668.0;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Kimya mühəndisliyi;;English;Ə;492.9;;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Kompüter mühəndisliyi;;English;Ə;662.2;662.2;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Kompüter mühəndisliyi;;English;Ə;610.1;;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Neft-qaz mühəndisliyi;;English;Ə;657.3;657.3;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Neft-qaz mühəndisliyi;;English;Ə;501.0;;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Proseslərin avtomatlaşdırılması ;;English;Ə;643.0;643.0;NO;;
+2025-2026;Bakı Ali Neft Məktəbi;Proseslərin avtomatlaşdırılması;;English;Ə;580.4;;NO;;
+2025-2026;Dövlət Gömrük Komitəsinin Akademiyası;İnformasiya texnologiyaları;;Azerbaijani;Ə;493.6;493.6;NO;;
+2025-2026;Dövlət Gömrük Komitəsinin Akademiyası;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;492.6;492.6;NO;;
+2025-2026;Qarabağ Universiteti;Riyaziyyat müəllimliyi ;;Azerbaijani;Ə;325.4;325.4;NO;;
+2025-2026;Qarabağ Universiteti;Riyaziyyat ;;Azerbaijani;Ə;366.2;366.2;NO;;
+2025-2026;Qarabağ Universiteti;Data analitikası;;Azerbaijani;Ə;350.2;350.2;NO;;
+2025-2026;Qarabağ Universiteti;Elektrik və elektronika mühəndisliyi ;;Azerbaijani;Ə;244.8;244.8;NO;;
+2025-2026;Qarabağ Universiteti;İnşaat mühəndisliyi;;Azerbaijani;Ə;273.2;273.2;NO;;
+2025-2026;Qarabağ Universiteti;Kompüter mühəndisliyi ;;Azerbaijani;Ə;262.8;262.8;NO;;
+2025-2026;Qarabağ Universiteti;Logistika və nəqliyyat texnologiyaları;;Azerbaijani;Ə;280.8;280.8;NO;;
+2025-2026;Qarabağ Universiteti;Mexatronika və robototexnika ;;Azerbaijani;Ə;308.4;308.4;NO;;
+2025-2026;Türkiyə-Azərbaycan Universiteti;Kompüter mühəndisliyi;;English;Ə;570.6;570.6;NO;;
+2025-2026;Türkiyə-Azərbaycan Universiteti;Qida mühəndisliyi;;English;Ə;450.7;450.7;NO;;
+2025-2026;Türkiyə-Azərbaycan Universiteti;Sənaye mühəndisliyi;;English;Ə;508.8;508.8;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Fizika müəllimliyi;;Azerbaijani;Ə;200.0;371.5;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Riyaziyyat müəllimliyi;;Azerbaijani;Ə;200.0;504.6;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;200.0;240.0;YES;51.0;
+2025-2026;Naxçıvan Dövlət Universiteti;Texnologiya müəllimliyi;;Azerbaijani;Ə;179.3;294.9;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Fizika;;Azerbaijani;Ə;254.1;254.1;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Riyaziyyat;;Azerbaijani;Ə;250.0;348.3;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;192.0;221.0;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;200.0;233.2;YES;75.1;91.1
+2025-2026;Naxçıvan Dövlət Universiteti;Energetika mühəndisliyi;;Azerbaijani;Ə;200.0;283.6;YES;76.7;77.0
+2025-2026;Naxçıvan Dövlət Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;234.2;234.2;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;422.6;422.6;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;200.0;227.6;YES;84.1;96.5
+2025-2026;Naxçıvan Dövlət Universiteti;Kompüter mühəndisliyi;;English;Ə;200.0;256.0;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Kompüter mühəndisliyi;;English;Ə;200.0;263.6;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Meliorasiya mühəndisliyi;;Azerbaijani;Ə;183.4;282.9;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Memarlıq;;Azerbaijani;Ə;200.0;322.4;YES;51.0;
+2025-2026;Naxçıvan Dövlət Universiteti;Nəqliyyat mühəndisliyi;;Azerbaijani;Ə;200.0;242.7;YES;81.5;81.5
+2025-2026;Naxçıvan Dövlət Universiteti;Proseslərin avtomatlaşdırılması;;Azerbaijani;Ə;200.0;;YES;75.6;87.8
+2025-2026;Naxçıvan Dövlət Universiteti;Torpaqşünaslıq və aqrokimya;;Azerbaijani;Ə;202.3;202.3;NO;;
+2025-2026;Naxçıvan Dövlət Universiteti;Yerquruluşu və daşınmaz əmlak;;Azerbaijani;Ə;191.1;249.6;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Riyaziyyat və informatika;;Azerbaijani;Ə;200.0;;YES;51.0;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Texnologiya müəllimliyi;;Azerbaijani;Ə;169.9;;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Aqromühəndislik ;;Turkish;Ə;199.8;199.8;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Aqromühəndislik;;Azerbaijani;Ə;191.8;191.8;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;200.0;226.8;YES;84.7;87.2
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Energetika mühəndisliyi;;Azerbaijani;Ə;200.0;232.7;YES;85.8;85.8
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Həyat fəaliyyətinin təhlükəsizliyi;;Azerbaijani;Ə;200.0;242.5;YES;72.8;72.8
+2025-2026;Naxçıvan Müəllimlər İnstitutu;informasiya texnologiyaları;;Azerbaijani;Ə;200.0;232.0;YES;86.7;86.7
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Kompüter mühəndisliyi;;Azerbaijani;Ə;200.0;233.3;YES;83.5;97.5
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Qida mühəndisliyi;;Azerbaijani;Ə;200.0;334.2;YES;83.9;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Logistika və nəqliyyat texnologiyaları;;Azerbaijani;Ə;200.0;267.1;YES;81.8;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Maşm mühəndisliyi;;Azerbaijani;Ə;200.0;382.1;YES;73.3;73.3
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Meliorasiya mühəndisliyi;;Azerbaijani;Ə;210.2;210.2;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Şərabçılıq;;Azerbaijani;Ə;175.0;175.0;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Aqronomluq;;Turkish;Ə;197.1;197.1;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Aqronomluq;;Azerbaijani;Ə;188.4;188.4;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Aqronomluq;;Azerbaijani;Q;196.4;196.4;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Aqronomluq ;;English;Ə;217.7;217.7;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Balıqçılıq;;Azerbaijani;Ə;160.7;160.7;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Meşəçilik;;Azerbaijani;Ə;167.5;167.5;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Torpaqşünaslıq və aqrokimya;;Azerbaijani;Ə;190.4;190.4;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Torpaqşünaslıq və aqrokimya;;Azerbaijani;Ə;200.9;200.9;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Torpaqşünaslıq və aqrokimya;;Azerbaijani;Q;215.3;215.3;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Torpaqşünaslıq və aqrokimya;;Azerbaijani;Ə;204.1;204.1;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Yerquruluşu və daşınmaz əmlak;;Azerbaijani;Ə;250.7;250.7;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Yerquruluşu və daşınmaz əmlak;;Azerbaijani;Q;249.8;249.8;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Zoomühəndislik;;Turkish;Ə;168.4;168.4;NO;;
+2025-2026;Naxçıvan Müəllimlər İnstitutu;Zoomühəndislik;;Azerbaijani;Ə;170.2;170.2;NO;;
+2025-2026;Gəncə Dövlət Universiteti;Fizika müəllimliyi;;Azerbaijani;Ə;200.0;370.9;NO;;
+2025-2026;Gəncə Dövlət Universiteti;İnformatika;;Azerbaijani;Ə;200.0;312.3;YES;68.4;
+2025-2026;Gəncə Dövlət Universiteti;Riyaziyyat müəllimliyi;;Azerbaijani;Ə;299.7;486.0;NO;;
+2025-2026;Gəncə Dövlət Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;326.5;326.5;NO;;
+2025-2026;Gəncə Dövlət Universiteti;Texnologiya müəllimliyi;;Azerbaijani;Ə;177.4;;NO;;
+2025-2026;Gəncə Dövlət Universiteti;Kompüter elmləri;;Azerbaijani;Ə;272.6;272.6;NO;;
+2025-2026;Gəncə Dövlət Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;213.1;320.6;NO;;
+2025-2026;Gəncə Dövlət Universiteti;Kimya mühəndisliyi;;Azerbaijani;Ə;200.0;;YES;67.2;
+2025-2026;Gəncə Dövlət Universiteti;Maşm mühəndisliyi;;Azerbaijani;Ə;200.0;;YES;59.3;59.3
+2025-2026;Azərbaycan Texnologiya Universiteti;Ekologiya mühəndisliyi;Gəncə şəhəri;Azerbaijani;Ə;185.6;;NO;;
+2025-2026;Azərbaycan Texnologiya Universiteti;Elektrik və elektronika mühəndisliyi;Gəncə şəhəri;Azerbaijani;Ə;200.0;254.4;YES;79.9;87.5
+2025-2026;Azərbaycan Texnologiya Universiteti;Həyat fəaliyyətinin təhlükəsizliyi;Gəncə şəhəri;Azerbaijani;Ə;200.0;;YES;62.1;65.8
+2025-2026;Azərbaycan Texnologiya Universiteti;İnformasiya texnologiyaları;Gəncə şəhəri;Azerbaijani;Ə;200.0;206.7;YES;82.5;86.7
+2025-2026;Azərbaycan Texnologiya Universiteti;İnformasiya təhlükəsizliyi;Gəncə şəhəri;Azerbaijani;Ə;200.0;426.5;YES;80.8;
+2025-2026;Azərbaycan Texnologiya Universiteti;Kompüter mühəndisliyi;Gəncə şəhəri;Azerbaijani;Ə;200.0;221.0;YES;78.4;
+2025-2026;Azərbaycan Texnologiya Universiteti;Qida mühəndisliyi;Gəncə şəhəri;Azerbaijani;Ə;200.0;365.3;YES;75.5;
+2025-2026;Azərbaycan Texnologiya Universiteti;Logistika və nəqliyyat texnologiyaları;Gəncə şəhəri;Azerbaijani;Ə;200.0;250.9;YES;76.9;
+2025-2026;Azərbaycan Texnologiya Universiteti;Maşın mühəndisliyi;Gəncə şəhəri;Azerbaijani;Ə;200.0;;YES;51.0;67.5
+2025-2026;Azərbaycan Texnologiya Universiteti;Metallurgiya mühəndisliyi;Gəncə şəhəri;Azerbaijani;Ə;200.0;;YES;51.0;65.5
+2025-2026;Azərbaycan Texnologiya Universiteti;Nəqliyyat mühəndisliyi;Gəncə şəhəri;Azerbaijani;Ə;200.0;;YES;83.5;83.5
+2025-2026;Azərbaycan Texnologiya Universiteti;Proseslərin avtomatlaşdırılması;Gəncə şəhəri;Azerbaijani;Ə;200.0;;YES;78.3;86.6
+2025-2026;Azərbaycan Texnologiya Universiteti;Radiotexnika və telekommunikasiya;Gəncə şəhəri;Azerbaijani;Ə;200.0;269.7;YES;75.9;82.6
+2025-2026;Azərbaycan Texnologiya Universiteti;Sənaye mühəndisliyi;Gəncə şəhəri;Azerbaijani;Ə;200.0;;YES;51.0;
+2025-2026;Azərbaycan Texnologiya Universiteti;Şərabçılıq;Gəncə şəhəri;Azerbaijani;Ə;150.4;197.8;NO;;
+2025-2026;Azərbaycan Texnologiya Universiteti;Şərabçılıq;Gəncə şəhəri;English;Ə;150.0;189.4;NO;;
+2025-2026;Sumqayıt Dövlət Universiteti;Fizika müəllimliyi;;Azerbaijani;Ə;200.0;390.0;NO;;
+2025-2026;Sumqayıt Dövlət Universiteti;İnformatika;;Azerbaijani;Ə;200.0;;YES;73.8;
+2025-2026;Sumqayıt Dövlət Universiteti;Riyaziyyat müəllimliyi;;Azerbaijani;Ə;312.5;484.1;NO;;
+2025-2026;Sumqayıt Dövlət Universiteti;Riyaziyyat müəllimliyi;;English;Ə;200.0;508.8;NO;;
+2025-2026;Sumqayıt Dövlət Universiteti;Riyaziyyat və informatika ;;Azerbaijani;Ə;200.0;229.3;YES;84.1;84.1
+2025-2026;Sumqayıt Dövlət Universiteti;Fizika;;Azerbaijani;Ə;250.0;272.5;NO;;
+2025-2026;Sumqayıt Dövlət Universiteti;Riyaziyyat;;Azerbaijani;Ə;250.0;346.6;NO;;
+2025-2026;Sumqayıt Dövlət Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;241.8;;NO;;
+2025-2026;Sumqayıt Dövlət Universiteti;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;200.0;206.8;YES;78.8;87.2
+2025-2026;Sumqayıt Dövlət Universiteti;Energetika mühəndisliyi;;Azerbaijani;Ə;200.0;255.1;YES;81.2;81.2
+2025-2026;Sumqayıt Dövlət Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;298.1;298.1;NO;;
+2025-2026;Sumqayıt Dövlət Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;249.5;397.5;NO;;
+2025-2026;Sumqayıt Dövlət Universiteti;Kimya mühəndisliyi;;Azerbaijani;Ə;200.0;481.6;YES;72.6;
+2025-2026;Sumqayıt Dövlət Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;283.3;283.3;NO;;
+2025-2026;Sumqayıt Dövlət Universiteti;Logistika və nəqliyyat texnologiyaları;;Azerbaijani;Ə;200.0;260.3;YES;81.1;
+2025-2026;Sumqayıt Dövlət Universiteti;Mexanika mühəndisliyi;;Azerbaijani;Ə;200.0;221.5;YES;69.7;69.7
+2025-2026;Sumqayıt Dövlət Universiteti;Mexatronika və robototexnika;;Azerbaijani;Ə;200.0;;YES;51.0;
+2025-2026;Sumqayıt Dövlət Universiteti;Neft-qaz mühəndisliyi;;Azerbaijani;Ə;200.0;400.1;YES;83.4;
+2025-2026;Sumqayıt Dövlət Universiteti;Proseslərin avtomatlaşdırılması;;Azerbaijani;Ə;200.0;226.7;YES;93.6;93.7
+2025-2026;Mingəçevir Dövlət Universiteti;Fizika müəllimliyi;;Azerbaijani;Ə;200.0;368.3;NO;;
+2025-2026;Mingəçevir Dövlət Universiteti;İnformatika;;Azerbaijani;Ə;200.0;;YES;51.0;
+2025-2026;Mingəçevir Dövlət Universiteti;Riyaziyyat müəllimliyi;;Azerbaijani;Ə;271.5;486.9;NO;;
+2025-2026;Mingəçevir Dövlət Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;200.0;241.2;YES;51.0;81.5
+2025-2026;Mingəçevir Dövlət Universiteti;Texnologiya müəllimliyi;;Azerbaijani;Ə;201.3;243.8;NO;;
+2025-2026;Mingəçevir Dövlət Universiteti;Kompüter elmləri;;Azerbaijani;Ə;250.0;255.3;YES;76.1;76.6
+2025-2026;Mingəçevir Dövlət Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;211.7;283.0;NO;;
+2025-2026;Mingəçevir Dövlət Universiteti;Elektrik və elektronika mühəndisliyi;;Azerbaijani;Ə;200.0;229.4;YES;78.5;88.7
+2025-2026;Mingəçevir Dövlət Universiteti;Energetika mühəndisliyi;;Azerbaijani;Ə;200.0;262.9;YES;79.7;79.7
+2025-2026;Mingəçevir Dövlət Universiteti;Həyat fəaliyyətinin təhlükəsizliyi;;Azerbaijani;Ə;200.0;297.7;YES;51.0;67.2
+2025-2026;Mingəçevir Dövlət Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;200.0;213.6;YES;78.3;86.7
+2025-2026;Mingəçevir Dövlət Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;200.0;385.2;YES;80.2;
+2025-2026;Mingəçevir Dövlət Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;200.0;270.5;YES;78.9;98.2
+2025-2026;Mingəçevir Dövlət Universiteti;Nəqliyyat mühəndisliyi;;Azerbaijani;Ə;200.0;307.1;YES;82.8;82.8
+2025-2026;Mingəçevir Dövlət Universiteti;Sənaye mühəndisliyi;;Azerbaijani;Ə;200.0;296.4;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Fizika müəllimliyi;;Azerbaijani;Ə;200.0;398.8;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Riyaziyyat müəllimliyi;;Azerbaijani;Ə;200.0;493.6;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;200.0;255.6;YES;51.0;81.2
+2025-2026;Lənkəran Dövlət Universiteti;Texnologiya müəllimliyi;;Azerbaijani;Ə;190.5;275.4;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Aqromühəndislik;;Azerbaijani;Ə;200.6;200.6;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;200.0;224.2;YES;78.1;87.5
+2025-2026;Lənkəran Dövlət Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;200.0;397.4;YES;79.2;
+2025-2026;Lənkəran Dövlət Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;200.0;236.9;YES;80.8;
+2025-2026;Lənkəran Dövlət Universiteti;Qida mühəndisliyi;;Azerbaijani;Ə;200.0;338.5;YES;74.4;
+2025-2026;Lənkəran Dövlət Universiteti;Şərabçılıq;;Azerbaijani;Ə;174.7;174.7;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Şərabçılıq;;Azerbaijani;Q;177.2;177.2;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Aqronomluq;;Azerbaijani;Ə;184.7;184.7;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Aqronomluq;;Azerbaijani;Q;190.0;190.0;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Meşəçilik;;Azerbaijani;Ə;159.4;159.4;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Meşəçilik;;Azerbaijani;Q;166.6;166.6;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Torpaqşünaslıq və aqrokimya;;Azerbaijani;Ə;199.6;199.6;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Torpaqşünaslıq və aqrokimya;;Azerbaijani;Q;194.6;194.6;NO;;
+2025-2026;Lənkəran Dövlət Universiteti;Zoomühəndislik;;Azerbaijani;Ə;174.7;174.7;NO;;
+2025-2026;Azərbaycan Kooperasiya Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;218.3;;NO;;
+2025-2026;Azərbaycan Kooperasiya Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;200.0;205.3;YES;93.0;96.5
+2025-2026;Azərbaycan Kooperasiya Universiteti;Qida mühəndisliyi;;Azerbaijani;Ə;200.0;;YES;84.1;
+2025-2026;Azərbaycan Kooperasiya Universiteti;Şərabçılıq;;Azerbaijani;Ə;207.5;207.5;NO;;
+2025-2026;Azərbaycan Kooperasiya Universiteti;Torpaqşünaslıq və aqrokimya;;Azerbaijani;Ə;236.1;236.1;NO;;
+2025-2026;Azərbaycan Kooperasiya Universiteti;Yerquruluşu və daşınmaz əmlakın;;Azerbaijani;Ə;247.2;250.4;NO;;
+2025-2026;“Azərbaycan”Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;319.4;319.4;NO;;
+2025-2026;“Azərbaycan”Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;200.0;;YES;93.6;
+2025-2026;“Azərbaycan”Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;290.6;;NO;;
+2025-2026;“Azərbaycan”Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;309.4;309.4;NO;;
+2025-2026;Qərbi Kaspi Universiteti;Kompüter elmləri;;English;Ə;250.0;252.2;YES;73.8;74.6
+2025-2026;Qərbi Kaspi Universiteti;Kompüter elmləri;;Azerbaijani;Ə;293.3;293.3;NO;;
+2025-2026;Qərbi Kaspi Universiteti;Cihaz mühəndisliyi;;Azerbaijani;Ə;200.0;;YES;69.9;69.9
+2025-2026;Qərbi Kaspi Universiteti;Ekologiya mühəndisliyi;;Azerbaijani;Ə;223.8;279.3;NO;;
+2025-2026;Qərbi Kaspi Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;200.0;248.2;YES;96.9;96.9
+2025-2026;Qərbi Kaspi Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;297.5;297.5;NO;;
+2025-2026;Qərbi Kaspi Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;200.0;386.6;YES;81.4;
+2025-2026;Qərbi Kaspi Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;200.0;;YES;87.3;
+2025-2026;Qərbi Kaspi Universiteti;Kompüter mühəndisliyi;;English;Ə;279.3;279.3;NO;;
+2025-2026;Qərbi Kaspi Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;287.1;287.1;NO;;
+2025-2026;Qərbi Kaspi Universiteti;Qida mühəndisliyi;;Azerbaijani;Ə;200.0;;YES;73.0;
+2025-2026;Qərbi Kaspi Universiteti;Mexatronika və robototexnika;;Azerbaijani;Ə;200.0;345.5;NO;;
+2025-2026;Qərbi Kaspi Universiteti;Mexatronika və robototexnika;;Azerbaijani;Ə;200.0;;NO;;
+2025-2026;Qərbi Kaspi Universiteti;Meşəçilik;;Azerbaijani;Ə;222.3;223.0;NO;;
+2025-2026;Qərbi Kaspi Universiteti;Meşəçilik;;Azerbaijani;Q;199.0;199.0;NO;;
+2025-2026;Xəzər Universiteti;Fizika müəllimliyi;;Azerbaijani;Ə;200.0;373.6;NO;;
+2025-2026;Xəzər Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;200.0;276.8;YES;73.5;88.4
+2025-2026;Xəzər Universiteti;Kompüter elmləri;;English;Ə;427.2;427.2;NO;;
+2025-2026;Xəzər Universiteti;Elektrik və elektronika mühəndisliyi;;English;Ə;200.0;254.1;YES;71.7;
+2025-2026;Xəzər Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;511.7;511.7;NO;;
+2025-2026;Xəzər Universiteti;İnşaat mühəndisliyi;;English;Ə;200.0;315.2;YES;51.0;
+2025-2026;Xəzər Universiteti;Kimya mühəndisliyi;;English;Ə;200.0;417.1;YES;90.0;
+2025-2026;Xəzər Universiteti;Kompüter mühəndisliyi;;English;Ə;316.4;316.4;NO;;
+2025-2026;Xəzər Universiteti;Mexanika mühəndisliyi;;English;Ə;200.0;295.6;YES;63.5;66.3
+2025-2026;Xəzər Universiteti;Memarlıq;;Azerbaijani;Ə;200.0;307.8;NO;;
+2025-2026;Xəzər Universiteti;Memarlıq;;English;Ə;200.0;326.2;YES;51.0;
+2025-2026;Xəzər Universiteti;Neft-qaz mühəndisliyi;;English;Ə;200.0;399.8;YES;51.0;
+2025-2026;Xəzər Universiteti;Radiotexnika və telekommunikasiya;;English;Ə;200.0;;YES;71.0;83.8
+2025-2026;Bakı Avrasiya Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;268.6;268.6;NO;;
+2025-2026;Bakı Qızlar Universiteti;Riyaziyyat və informatika;;Azerbaijani;Ə;200.0;225.9;YES;67.2;83.0
+2025-2026;“Odlar Yurdu”Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;289.0;289.0;NO;;
+2025-2026;“Odlar Yurdu”Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;281.3;281.3;NO;;
+2025-2026;“Odlar Yurdu”Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;200.0;403.1;YES;98.5;
+2025-2026;“Odlar Yurdu”Universiteti;Kompüter mühəndisliyi;;English;Ə;200.0;253.0;YES;99.0;99.0
+2025-2026;“Odlar Yurdu”Universiteti;Kompüter mühəndisliyi;;Azerbaijani;Ə;268.6;268.6;NO;;
+2025-2026;Bakı Biznes Universiteti;İnformasiya texnologiyaları;;Azerbaijani;Ə;246.5;246.5;NO;;
+2025-2026;Bakı Biznes Universiteti;İnformasiya təhlükəsizliyi;;Azerbaijani;Ə;200.0;;YES;90.2;
